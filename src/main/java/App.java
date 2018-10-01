@@ -1,6 +1,4 @@
-import java.util.HashSet;
 import java.util.Scanner;
-import java.util.Set;
 
 import static java.lang.String.format;
 import static java.lang.System.out;
